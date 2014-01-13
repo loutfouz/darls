@@ -1,0 +1,226 @@
+<class-diagram version="0.9.86" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class corner="BOTTOM_RIGHT" language="java" name="versioning.FalseObjectsLog" project="darls" 
+    file="/darls/src/versioning/UserStudy.java" binary="false">    
+    <position x="468" y="-474" width="182" height="83"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="versioning.PilotUserStudyLevel3Log" project="darls" 
+    file="/darls/src/versioning/UserStudy.java" binary="false">    
+    <position x="965" y="961" width="221" height="643"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="versioning.PilotUserStudyLog" project="darls" 
+    file="/darls/src/versioning/UserStudy.java" binary="false">    
+    <position x="723" y="-789" width="189" height="131"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="versioning.FalsePositiveNodeLog" project="darls" 
+    file="/darls/src/versioning/UserStudy.java" binary="false">    
+    <position x="-31" y="961" width="207" height="67"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="versioning.FalseNegativeNodeLog" project="darls" 
+    file="/darls/src/versioning/UserStudy.java" binary="false">    
+    <position x="216" y="961" width="212" height="67"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="versioning.UserStudyLevel1Log" project="darls" 
+    file="/darls/src/versioning/UserStudy.java" binary="false">    
+    <position x="1474" y="-474" width="202" height="83"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="versioning.FalsePositiveEdgeLog" project="darls" 
+    file="/darls/src/versioning/UserStudy.java" binary="false">    
+    <position x="468" y="961" width="206" height="67"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="versioning.UserStudy" project="darls" 
+    file="/darls/src/versioning/UserStudy.java" binary="false">    
+    <position x="965" y="-789" width="172" height="275"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="versioning.FalseNegativeEdgeLog" project="darls" 
+    file="/darls/src/versioning/UserStudy.java" binary="false">    
+    <position x="714" y="961" width="211" height="67"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="versioning.UserStudyLevel2Log" project="darls" 
+    file="/darls/src/versioning/UserStudy.java" binary="false">    
+    <position x="723" y="-474" width="202" height="83"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="versioning.UserStudyLevel1Log.LogData" project="darls" 
+    file="/darls/src/versioning/UserStudy.java" binary="false">    
+    <position x="1474" y="961" width="187" height="275"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="versioning.Log" project="darls" 
+    file="/darls/src/versioning/UserStudy.java" binary="false">    
+    <position x="723" y="-944" width="156" height="115"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="versioning.PilotUserStudy" project="darls" 
+    file="/darls/src/versioning/UserStudy.java" binary="false">    
+    <position x="965" y="-474" width="469" height="1395"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <generalization>    
+    <source project="darls" name="versioning.FalseNegativeNodeLog" file="/darls/src/versioning/UserStudy.java" 
+      binary="false"/>    
+    <target project="darls" name="versioning.FalseObjectsLog" file="/darls/src/versioning/UserStudy.java" 
+      binary="false"/>  
+  </generalization>  
+  <generalization>    
+    <source project="darls" name="versioning.PilotUserStudy" file="/darls/src/versioning/UserStudy.java" binary="false"/>    
+    <target project="darls" name="versioning.UserStudy" file="/darls/src/versioning/UserStudy.java" binary="false"/>  
+  </generalization>  
+  <association>    
+    <source project="darls" name="versioning.UserStudy" file="/darls/src/versioning/UserStudy.java" binary="false" 
+      navigable="false">      
+      <attribute name="userStudyLevel1Log"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="darls" name="versioning.UserStudyLevel1Log" file="/darls/src/versioning/UserStudy.java" 
+      binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting>    
+    <source project="darls" name="versioning.UserStudyLevel1Log" file="/darls/src/versioning/UserStudy.java" 
+      binary="false"/>    
+    <target project="darls" name="versioning.UserStudyLevel1Log.LogData" file="/darls/src/versioning/UserStudy.java" 
+      binary="false"/>  
+  </nesting>  
+  <generalization>    
+    <source project="darls" name="versioning.FalseNegativeEdgeLog" file="/darls/src/versioning/UserStudy.java" 
+      binary="false"/>    
+    <target project="darls" name="versioning.FalseObjectsLog" file="/darls/src/versioning/UserStudy.java" 
+      binary="false"/>  
+  </generalization>  
+  <generalization>    
+    <source project="darls" name="versioning.FalsePositiveNodeLog" file="/darls/src/versioning/UserStudy.java" 
+      binary="false"/>    
+    <target project="darls" name="versioning.FalseObjectsLog" file="/darls/src/versioning/UserStudy.java" 
+      binary="false"/>  
+  </generalization>  
+  <association>    
+    <source project="darls" name="versioning.UserStudy" file="/darls/src/versioning/UserStudy.java" binary="false" 
+      navigable="false">      
+      <attribute name="userStudyLevel2Log"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="darls" name="versioning.UserStudyLevel2Log" file="/darls/src/versioning/UserStudy.java" 
+      binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="darls" name="versioning.PilotUserStudyLog" file="/darls/src/versioning/UserStudy.java" 
+      binary="false" navigable="false">      
+      <attribute name="pilot_user_study"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="darls" name="versioning.PilotUserStudy" file="/darls/src/versioning/UserStudy.java" binary="false" 
+      navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization>    
+    <source project="darls" name="versioning.PilotUserStudyLog" file="/darls/src/versioning/UserStudy.java" 
+      binary="false"/>    
+    <target project="darls" name="versioning.Log" file="/darls/src/versioning/UserStudy.java" binary="false"/>  
+  </generalization>  
+  <generalization>    
+    <source project="darls" name="versioning.UserStudyLevel2Log" file="/darls/src/versioning/UserStudy.java" 
+      binary="false"/>    
+    <target project="darls" name="versioning.PilotUserStudyLog" file="/darls/src/versioning/UserStudy.java" 
+      binary="false"/>  
+  </generalization>  
+  <association>    
+    <source project="darls" name="versioning.UserStudyLevel1Log" file="/darls/src/versioning/UserStudy.java" 
+      binary="false" navigable="false">      
+      <attribute name="log_data"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="darls" name="versioning.UserStudyLevel1Log.LogData" file="/darls/src/versioning/UserStudy.java" 
+      binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization>    
+    <source project="darls" name="versioning.FalseObjectsLog" file="/darls/src/versioning/UserStudy.java" 
+      binary="false"/>    
+    <target project="darls" name="versioning.PilotUserStudyLog" file="/darls/src/versioning/UserStudy.java" 
+      binary="false"/>  
+  </generalization>  
+  <generalization>    
+    <source project="darls" name="versioning.UserStudyLevel1Log" file="/darls/src/versioning/UserStudy.java" 
+      binary="false"/>    
+    <target project="darls" name="versioning.PilotUserStudyLog" file="/darls/src/versioning/UserStudy.java" 
+      binary="false"/>  
+  </generalization>  
+  <association>    
+    <source project="darls" name="versioning.PilotUserStudy" file="/darls/src/versioning/UserStudy.java" binary="false" 
+      navigable="false">      
+      <attribute name="pilot_user_study_level3_log"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="darls" name="versioning.PilotUserStudyLevel3Log" file="/darls/src/versioning/UserStudy.java" 
+      binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization>    
+    <source project="darls" name="versioning.FalsePositiveEdgeLog" file="/darls/src/versioning/UserStudy.java" 
+      binary="false"/>    
+    <target project="darls" name="versioning.FalseObjectsLog" file="/darls/src/versioning/UserStudy.java" 
+      binary="false"/>  
+  </generalization>  
+  <generalization>    
+    <bendpoint x="692" y="-474"/>    
+    <source project="darls" name="versioning.PilotUserStudyLevel3Log" file="/darls/src/versioning/UserStudy.java" 
+      binary="false"/>    
+    <target project="darls" name="versioning.PilotUserStudyLog" file="/darls/src/versioning/UserStudy.java" 
+      binary="false"/>  
+  </generalization>  
+  <classifier-display autosize="true" package="true" initial-value="false" signature="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
